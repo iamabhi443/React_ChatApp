@@ -1,6 +1,6 @@
 # React Chat App
 
-This app is hosted on https://react-chat-app-chi.vercel.app/
+This app is hosted on https://react-chat-app-iamabhi443.vercel.app/login
 
 # Getting Started with Create React App
 
